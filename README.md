@@ -26,9 +26,9 @@ We are in the **early planning stages**, brainstorming ideas and exploring conce
 ## 🖋️ Credits  
 
 ### Development Team  
-- **[Milo]** – Concept, story, sprites, scripting and bringing up idea's
-- **[insightfully_(Daniel)]** – Scripting, marketing and contributing
-
+- **Milo** – Concept, story, sprites, scripting and bringing up idea's
+- **insightfully_** – Scripting, marketing and contributing
+- **pulcina** - idea's sprites and lore
 ### Tools Used  
 - RPG Maker MV (OMORI's engine)  
 - Aseprite (sprite creation)  
